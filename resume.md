@@ -63,7 +63,7 @@ Williams-Defender
 
 ### Ivanti, Salt Lake City, UT — Fully Remote Senior Software Engineer
 
-#### November 2021 - Present
+#### November 2021 - July 2024
 
 - Modern C++ targeting numerous Linux distributions for patch management agent 
   executable and SDK library.
