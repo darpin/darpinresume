@@ -41,7 +41,11 @@ Since the pandemic, I have worked from home. I have an office setup with
 multiple monitors (using kvm-like switches between machines), a HyperX Quadcast 
 standalone microphone, and I always have my camera on in meetings.
 
-I feel I am way more productive working remotely.
+I do feel I am more productive working remotely. To me, engineering is as much
+a thought-process as a do-process. When I get to a point where I need to think
+about how to solve an issue at hand, if I'm remote, I can take an uninterrupted
+break from the keyboard and monitor and work through the thoughts without 
+the distractions of an office environment.
 
 I tend to call going home, "going into the other room".
 

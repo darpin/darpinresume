@@ -5,16 +5,16 @@ NOTE: this is a first draft with some initial thoughts.
 ## Introduction
 
 I first learned about C++ during my undergraduate years studying Math and 
-Computer Science at FHSU in the early 1990s. 
+Computer Science at Fort Hays State Universiy in the early 1990s. 
 
 Was it love at first sight? Maybe. The language treated me right while writing
-my Masters project at Kansas State. Most of my years of professional software
-development, C++ has treated me right. I've tried to use, abuse, experiment 
-with, play with, learn from, and push the boundaries the language provides 
-throughout its and my evolution.
+my Masters project at Kansas State University. Most of my years of professional 
+software development, C++ has treated me right. I've tried to use, abuse, 
+experiment with, play with, learn from, and push the boundaries the language 
+provides throughout its and my evolution.
 
-Here, I'll be brief ... hopefully, are some of the things that I've learned
-and accomplished with C++ over the years.
+Here, I'll be brief ... hopefully, are (and will be) some of the things that 
+I've learned and accomplished with C++ over the years.
 
 ## First things first
 
