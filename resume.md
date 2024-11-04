@@ -9,28 +9,28 @@
 - Authorized to work in the US for any employer. 
 
 #### Open to opportunities:
-- onsite in Boulder, Downtown Denver and the northern 'Suburbs',
-- hybrid in Metro Denver area, and
-- fully-remote opportunities
+- ***onsite*** in **Boulder**, Downtown **Denver** and the northern 'burbs,
+- ***hybrid*** in **Metro** Denver area, and
+- ***fully-remote*** opportunities
 
 ## SKILLS
-Extensive experience designing and implementing software systems in a wide 
+Extensive experience ***designing and implementing software systems*** in a wide 
 array of languages and technologies. Most comfortable with ***C++*** and 
 system-level applications; lots of experience with ***SaaS*** and ***cloud 
 services*** over the last few years.
 
-Experience in modern technologies e.g., ***OO***, ***containerization***, 
+Experience in modern technologies e.g., ***OO***, ***docker***, 
 ***microservices***, ***cloud***, ***REST***.
 
 Full understanding of the ***development lifecycle***, ***agile*** 
-processes / ceremonies, and a desire to ***drive the processes*** in 
-efficient and useful ways making the team and company grow and ***helping 
+processes / ceremonies, and a desire to ***drive*** the ***processes*** in 
+efficient and useful ways making the team and ***company grow*** and ***helping 
 people*** become ***better*** at what they do both professionally and 
 personally.
 
 Math geek who enjoys ***measuring*** things, ***gathering*** data, 
-***identifying*** trends, experimenting with, and “discovering” what the numbers 
-might mean.
+***identifying*** trends, ***experimenting*** with, and “discovering” what the 
+numbers might mean.
 
 Extreme interest in identifying and gathering ***metrics*** measuring all 
 aspects of software development including inception, planning, and mapping, as 
@@ -40,16 +40,16 @@ performance.
 Eager to ***lead*** and ***inspire*** others (not just engineers) to ***become 
 better*** at their craft, whether as their peer, leader, or underling.
 
-Love of all things tech. With an eye for new tools and techniques to do really 
+Love of all things tech. with an eye for new tools and techniques to do really 
 cool things.
 
 ## OBJECTIVE
 
 Secure a position leading and driving development of ***interesting***, 
-***useful*** software and services, where I can ***write software***, ***build
-teams***, and ***develop engineers***, plan and build ***architectures*** and 
-***software solutions***, and ***mentor*** and help others in the same and on 
-their path.
+***useful software*** and services, where I can ***write software***, ***build
+teams*** and ***develop engineers***, plan and ***build architectures*** and 
+***software solutions***, and ***mentor*** and ***help others*** in the same and 
+on their path.
 
 Specifically, interested in ***‘leadership’*** roles driving ***planning***,
 ***requirements***, and ***processes*** where tools and techniques are
@@ -58,10 +58,9 @@ and ***driving execution*** to successful deployment.
 
 ## EXPERIENCE
 
-### Ivanti, Salt Lake City, UT — Fully Remote Senior Software Engineer
-#### November 2021 - July 2024
+### Ivanti, Salt Lake City, UT — Fully Remote Senior Software Engineer 11/21-7/24
 
-*Using modern C++ on Linux:*
+*Using modern **C++** on **Linux**:*
 - supported / augmented / enhanced in-house SDK for cross-platform patch 
   management
 - supported and tested legacy (content based) C++ Linux patch engine
@@ -73,7 +72,7 @@ and ***driving execution*** to successful deployment.
   * reboot scheduling / management and resume capabilities
   * full test-drive mode handling canned responses for selected steps 
 
-*Using docker and compose specifications for ever-growing set of Linux 
+*Using **docker** and **compose** specifications for ever-growing set of Linux 
 distributions developed:*
 - (compile|build|package|publish)-as-a-command from a single host
 - validation tests for each target distribution
@@ -85,19 +84,18 @@ distributions developed:*
 - championed and led weekly knowledge exchange meetings among teammates and
   with other invited teams' members
 
-***Tools/Skills:** C++, Linux, day-to-day machine Ubuntu LTS, docker, 
-docker-compose, cmake / make, gdb, design patterns.*
+***Tools/Skills:** C++, Linux, Ubuntu LTS desktop, docker, docker-compose, 
+cmake / make, gdb, design patterns.*
 
-### Mersive, Denver, CO — Senior Software Engineer
-#### February 2020 - July 2021
+### Mersive, Denver, CO — Senior Software Engineer 2/20-7/21
 
-*Using Python, connexion and openapi / swagger specifications:*
+*Using **Python**, connexion and **openapi** / swagger specifications:*
 - productized location service from data-scientist prototype
 - SAML integration with identity providers
 - developed pandemic ‘workplace wellness‘ service for safe resource 
   scheduling / utilization
 
-*Using docker and compose specifications:*
+*Using **docker** and **compose** specifications:*
 - drove / influenced cloud techniques migrating a monolithic cloud distributed
   system to a micro-service-oriented solution
 - developed and presented docker-based tools for front-end developers for 
@@ -109,10 +107,9 @@ docker-compose, cmake / make, gdb, design patterns.*
 ***Tools/Skills:** Python, flask / connexion, docker, docker-compose, git, gcp, 
 k8s, drone*
 
-### JumpCloud, Boulder, CO — Senior Software Engineer
-#### July 2018 - January 2020
+### JumpCloud, Boulder, CO — Senior Software Engineer 7/18-1/20
 
-*Using nodejs and go supported / augmented / enhanced:*
+*Using **nodejs** and **go** supported / augmented / enhanced:*
 - web microservices for cloud-based active directory service
 - backend directory functionality 
 - directory microservice integration with external services (gsuite)
@@ -126,10 +123,9 @@ k8s, drone*
 grpc, mongo, postgres, github, agile, ldap, gsuite, o365, 
 intellij / golang / datagrip, robo3t, apache directory studio, aws*
 
-### Alteryx, Broomfield, CO — Senior Software Engineer
-#### October 2017 - June 2018
+### Alteryx, Broomfield, CO — Senior Software Engineer 10/17-6/18
 
-*Using C++ on Windows and Linux:*
+*Using **C++** on Windows and Linux:*
 - supported / augmented / enhanced analytics engine application
 - ported plugins from legacy engine format
 
@@ -144,32 +140,29 @@ intellij / golang / datagrip, robo3t, apache directory studio, aws*
 
 ***Tools/Skills:** visual studio, C++, code collaborator, docker, linux, agile*
 
-### MassRoots, Denver, CO — Senior Software Engineer
-#### May 2017 - July 2017
+### MassRoots, Denver, CO — Senior Software Engineer 5/17-7/17
 
-*Using golang:*
-- rewrite a specialized social network to be more scalable
+*Using **golang**:*
+- rewrite of a specialized social network to be more scalable
 - developed behavior-driven-development test suite for rewrite
 
 *Other Accomplishments:*
-- Identified as Manager for Community team -- company ran out of money; 
+- Identified as Manager for Community team. Company ran out of money; 
   engineering team dissolved.
  
 ***Tools/Skills:** linux, microservices, containers, intellij / goland, 
 firebase, android*
 
-### FusionIO / NexGen Storage / Pivot3, Louisville, CO — Senior Software Engineer
-#### April 2014 - May 2017
+### NexGen Storage / Pivot3, Louisville, CO — Senior Software Engineer 4/14-5/17
 
-*Using C++ on high-performance Linux storage processor:*
+*Using **C++** on high-performance **Linux** storage processor:*
 - led research on next generation QoS algorithm
 - developed framework for using different QoS algorithms
 - gathering and visualization of IoB metrics
  
 ***Tools/Skills:** C++, linux, R, shiny, java, bash*
  
-### Cisco, Denver, CO — Senior Software Engineer
-#### April 2008 - April 2014
+### Cisco, Denver, CO — Senior Software Engineer 4/08-4/14
  
 - C++ on Linux on Jabber / XMPP server features.
 - Python on Linux for unit / functional tests of Jabber / XMPP server.
@@ -186,58 +179,27 @@ firebase, android*
 
 ***Tools/Skills:** C++, php, javascript*
 
-### Xpedite / Premiere Global, Boulder, CO — Senior Software Engineer
-#### October 1998 - July 2007
+## OTHER RELEVANT EXPERIENCE
  
-- Lead on scripting and session management components (okay, I was the only 
-  developer, but I still coordinated the whole thing from design to integration 
-  to deployment).
+- Lead on scripting and session management components for telephony service.
 - C++ on SCO and Linux on scripting and session management components of 
   telephony server.
 - Created proprietary scripting language for specialized call flows.
 - Wrote tooling and application framework for common component processes.
-
-***Tools/Skills:** C++, sco, linux, telephony*
-
-### Bendata, Colorado Springs, CO — Senior Software Engineer
-#### January 1997 - October 1998
- 
-- C++ on Windows on GUI components of Help Desk software.
 - Developed dockable window framework in proprietary windowing library.
-
-***Tools/Skills:** C++, glyphs*
-
-### Auto-trol, Denver, CO — Software Engineer
-#### March 1995 - January 1997
- 
-- C++ on HPUX and Solaris on 3D modeling visualization tool.
-- Developed framework around X-window spec. for windowing and event dispatching.
-- C++ on Windows on extending test suite.
-
-***Tools/Skills:** C++, hpux, solaris, emacs*
-
-### GA Sullivan, St. Louis, MO — Consultant
-
-#### August 1994 - March 1995
- 
-- C++ on Windows on client cataloging application.
-- Nantucket Clipper for insurance company claims software.
-- C on Windows on corporate travel agency software.
-- Extended Clipper application for multiple users on a network
-
-***Tools/Skills:** C++, clipper, consulting*
+- Augmented and supported main interface to 3D modeling visualization tool.
+- Developed abstraction framework around X-window specification for windowing
+  and event dispatching.
 
 ## EDUCATION
 
-### Kansas State University, Manhattan, KS - Master of Science - 1992-1994
+### Kansas State University, Manhattan, Kansas
 
 * Master of Science in Computer Science (3.7/4.0)
-* Coursework: 1992-1994
-* Defense: 1998
 * Project: Compiler for Object Metric Analysis 
   - measuring the object-oriented-ness of C++ code.
 
-### Fort Hays State University, Hays, KS — Bachelor of Science - 1988-1992
+### Fort Hays State University, Hays, Kansas
 
 * Bachelor of Science in Mathematics (3.8/4.0) 
   - Computer Science emphasis
