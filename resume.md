@@ -19,7 +19,7 @@ array of languages and technologies. Most comfortable with ***C++*** and
 system-level applications; lots of experience with ***SaaS*** and ***cloud 
 services*** over the last few years.
 
-Experience in modern technologies e.g., ***OO***, ***containerization***, 
+Experience in modern technologies e.g., ***OO***, ***docker***, 
 ***microservices***, ***cloud***, ***REST***.
 
 Full understanding of the ***development lifecycle***, ***agile*** 
@@ -125,7 +125,7 @@ intellij / golang / datagrip, robo3t, apache directory studio, aws*
 
 ### Alteryx, Broomfield, CO — Senior Software Engineer 10/17-6/18
 
-*Using C++ on Windows and Linux:*
+*Using **C++** on Windows and Linux:*
 - supported / augmented / enhanced analytics engine application
 - ported plugins from legacy engine format
 
@@ -142,7 +142,7 @@ intellij / golang / datagrip, robo3t, apache directory studio, aws*
 
 ### MassRoots, Denver, CO — Senior Software Engineer 5/17-7/17
 
-*Using golang:*
+*Using **golang**:*
 - rewrite of a specialized social network to be more scalable
 - developed behavior-driven-development test suite for rewrite
 
@@ -153,9 +153,9 @@ intellij / golang / datagrip, robo3t, apache directory studio, aws*
 ***Tools/Skills:** linux, microservices, containers, intellij / goland, 
 firebase, android*
 
-### FusionIO / NexGen Storage / Pivot3, Louisville, CO — Senior Software Engineer 4/14-5/17
+### NexGen Storage / Pivot3, Louisville, CO — Senior Software Engineer 4/14-5/17
 
-*Using C++ on high-performance Linux storage processor:*
+*Using **C++** on high-performance **Linux** storage processor:*
 - led research on next generation QoS algorithm
 - developed framework for using different QoS algorithms
 - gathering and visualization of IoB metrics
