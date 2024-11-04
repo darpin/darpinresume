@@ -2,6 +2,7 @@
 
 * [Markdown](./resume.md)
 * [Google Docs](https://bit.ly/darpinresume)
+* [Libreoffice Writer](./resume.odt)
 * [PDF](./resume.pdf)
 
 ## Other stuff
